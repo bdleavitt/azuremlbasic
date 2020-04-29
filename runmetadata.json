@@ -1,0 +1,30 @@
+{
+    "_experiment_name": "SimpleExperiment",
+    "cancel_uri": "https://eastus.experiments.azureml.net/execution/v1.0/subscriptions/eb489f58-b7f7-4001-a82b-bc18cac70b3b/resourceGroups/mlops-dev/providers/Microsoft.MachineLearningServices/workspaces/bdl-mlops-dev/experiments/SimpleExperiment/runId/SimpleExperiment_1588116943_9a86da55/cancel",
+    "created_by": {
+        "user_name": "Brady Leavitt",
+        "user_object_id": "6f8e6629-0dc0-44a9-9996-6c27e4d42dcf",
+        "user_tenant_id": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+    },
+    "created_utc": "2020-04-28T23:36:01.644433Z",
+    "data_container_id": "dcid.SimpleExperiment_1588116943_9a86da55",
+    "diagnostics_uri": "https://eastus.experiments.azureml.net/execution/v1.0/subscriptions/eb489f58-b7f7-4001-a82b-bc18cac70b3b/resourceGroups/mlops-dev/providers/Microsoft.MachineLearningServices/workspaces/bdl-mlops-dev/experiments/SimpleExperiment/runId/SimpleExperiment_1588116943_9a86da55/diagnostics",
+    "experiment_id": "f38afd61-eb0c-4391-82fd-85f0df85bc40",
+    "heartbeat_enabled": false,
+    "hidden": false,
+    "properties": {
+        "ContentSnapshotId": "6be96b89-3265-4cae-bfac-2e25587c156c",
+        "_azureml.ComputeTargetType": "amlcompute"
+    },
+    "root_run_id": "SimpleExperiment_1588116943_9a86da55",
+    "root_run_uuid": "d81b6ad9-e992-4771-a4bf-e65c46e7d3ca",
+    "run_id": "SimpleExperiment_1588116943_9a86da55",
+    "run_number": 1,
+    "run_type": "azureml.scriptrun",
+    "run_uuid": "d81b6ad9-e992-4771-a4bf-e65c46e7d3ca",
+    "script_name": "train.py",
+    "status": "Completed",
+    "tags": {},
+    "target": "bdl-cpu-vnet",
+    "user_id": "6f8e6629-0dc0-44a9-9996-6c27e4d42dcf"
+}
